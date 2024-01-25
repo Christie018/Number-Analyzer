@@ -1,0 +1,14 @@
+C:\Users\MattieD\source\repos\Number-Analyzer\Number-Analyzer\bin\Debug\net8.0\Number-Analyzer.exe
+C:\Users\MattieD\source\repos\Number-Analyzer\Number-Analyzer\bin\Debug\net8.0\Number-Analyzer.deps.json
+C:\Users\MattieD\source\repos\Number-Analyzer\Number-Analyzer\bin\Debug\net8.0\Number-Analyzer.runtimeconfig.json
+C:\Users\MattieD\source\repos\Number-Analyzer\Number-Analyzer\bin\Debug\net8.0\Number-Analyzer.dll
+C:\Users\MattieD\source\repos\Number-Analyzer\Number-Analyzer\bin\Debug\net8.0\Number-Analyzer.pdb
+C:\Users\MattieD\source\repos\Number-Analyzer\Number-Analyzer\obj\Debug\net8.0\Number-Analyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MattieD\source\repos\Number-Analyzer\Number-Analyzer\obj\Debug\net8.0\Number-Analyzer.AssemblyInfoInputs.cache
+C:\Users\MattieD\source\repos\Number-Analyzer\Number-Analyzer\obj\Debug\net8.0\Number-Analyzer.AssemblyInfo.cs
+C:\Users\MattieD\source\repos\Number-Analyzer\Number-Analyzer\obj\Debug\net8.0\Number-Analyzer.csproj.CoreCompileInputs.cache
+C:\Users\MattieD\source\repos\Number-Analyzer\Number-Analyzer\obj\Debug\net8.0\Number-Analyzer.dll
+C:\Users\MattieD\source\repos\Number-Analyzer\Number-Analyzer\obj\Debug\net8.0\refint\Number-Analyzer.dll
+C:\Users\MattieD\source\repos\Number-Analyzer\Number-Analyzer\obj\Debug\net8.0\Number-Analyzer.pdb
+C:\Users\MattieD\source\repos\Number-Analyzer\Number-Analyzer\obj\Debug\net8.0\Number-Analyzer.genruntimeconfig.cache
+C:\Users\MattieD\source\repos\Number-Analyzer\Number-Analyzer\obj\Debug\net8.0\ref\Number-Analyzer.dll
