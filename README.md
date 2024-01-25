@@ -1,4 +1,5 @@
-Task: Use conditional statements to automate the decision-making process.
+# Number Analyzer C# Application
+### Task: Use conditional statements to automate the decision-making process.
 
 What will the application do? 
 1 Point: The application prompts the user to enter an integer between 1 and 100 inclusive..
